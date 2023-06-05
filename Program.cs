@@ -16,7 +16,7 @@ namespace quanlygiangvien
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new quanlygiangday());
+            Application.Run(new ThongKe());
         }
     }
 }
