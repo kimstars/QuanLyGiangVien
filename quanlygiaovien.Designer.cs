@@ -29,17 +29,19 @@ namespace quanlygiangvien
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(quanlygiaovien));
             DevExpress.XtraEditors.Controls.EditorButtonImageOptions editorButtonImageOptions1 = new DevExpress.XtraEditors.Controls.EditorButtonImageOptions();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject1 = new DevExpress.Utils.SerializableAppearanceObject();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject2 = new DevExpress.Utils.SerializableAppearanceObject();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject3 = new DevExpress.Utils.SerializableAppearanceObject();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject4 = new DevExpress.Utils.SerializableAppearanceObject();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(quanlygiaovien));
             this.fluentDesignFormContainer1 = new DevExpress.XtraBars.FluentDesignSystem.FluentDesignFormContainer();
             this.panel1 = new System.Windows.Forms.Panel();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.xtraTabControl1 = new DevExpress.XtraTab.XtraTabControl();
             this.xtraTabPage1 = new DevExpress.XtraTab.XtraTabPage();
+            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
             this.comboBox4 = new System.Windows.Forms.ComboBox();
             this.label11 = new System.Windows.Forms.Label();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
@@ -109,8 +111,55 @@ namespace quanlygiangvien
             this.fluentDesignFormControl1 = new DevExpress.XtraBars.FluentDesignSystem.FluentDesignFormControl();
             this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
             this.barHeaderItem1 = new DevExpress.XtraBars.BarHeaderItem();
-            this.simpleButton1 = new DevExpress.XtraEditors.SimpleButton();
-            this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
+            this.simpleButton4 = new DevExpress.XtraEditors.SimpleButton();
+            this.xtraTabControl2 = new DevExpress.XtraTab.XtraTabControl();
+            this.xtraTabPage3 = new DevExpress.XtraTab.XtraTabPage();
+            this.comboBox10 = new System.Windows.Forms.ComboBox();
+            this.label25 = new System.Windows.Forms.Label();
+            this.comboBox11 = new System.Windows.Forms.ComboBox();
+            this.comboBox12 = new System.Windows.Forms.ComboBox();
+            this.label26 = new System.Windows.Forms.Label();
+            this.comboBox13 = new System.Windows.Forms.ComboBox();
+            this.textEdit12 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit13 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit14 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit15 = new DevExpress.XtraEditors.TextEdit();
+            this.radioGroup3 = new DevExpress.XtraEditors.RadioGroup();
+            this.dateTimePicker3 = new System.Windows.Forms.DateTimePicker();
+            this.label27 = new System.Windows.Forms.Label();
+            this.label28 = new System.Windows.Forms.Label();
+            this.label29 = new System.Windows.Forms.Label();
+            this.label30 = new System.Windows.Forms.Label();
+            this.label31 = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
+            this.label33 = new System.Windows.Forms.Label();
+            this.label34 = new System.Windows.Forms.Label();
+            this.label35 = new System.Windows.Forms.Label();
+            this.textEdit16 = new DevExpress.XtraEditors.TextEdit();
+            this.xtraTabPage4 = new DevExpress.XtraTab.XtraTabPage();
+            this.comboBox14 = new System.Windows.Forms.ComboBox();
+            this.label36 = new System.Windows.Forms.Label();
+            this.comboBox15 = new System.Windows.Forms.ComboBox();
+            this.comboBox16 = new System.Windows.Forms.ComboBox();
+            this.label37 = new System.Windows.Forms.Label();
+            this.comboBox17 = new System.Windows.Forms.ComboBox();
+            this.textEdit17 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit18 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit19 = new DevExpress.XtraEditors.TextEdit();
+            this.textEdit20 = new DevExpress.XtraEditors.TextEdit();
+            this.radioGroup4 = new DevExpress.XtraEditors.RadioGroup();
+            this.dateTimePicker4 = new System.Windows.Forms.DateTimePicker();
+            this.label38 = new System.Windows.Forms.Label();
+            this.label39 = new System.Windows.Forms.Label();
+            this.label40 = new System.Windows.Forms.Label();
+            this.label41 = new System.Windows.Forms.Label();
+            this.label42 = new System.Windows.Forms.Label();
+            this.label43 = new System.Windows.Forms.Label();
+            this.label44 = new System.Windows.Forms.Label();
+            this.label45 = new System.Windows.Forms.Label();
+            this.label46 = new System.Windows.Forms.Label();
+            this.textEdit21 = new DevExpress.XtraEditors.TextEdit();
             this.fluentDesignFormContainer1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
@@ -141,6 +190,22 @@ namespace quanlygiangvien
             ((System.ComponentModel.ISupportInitialize)(this.textEdit6.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.accordionControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fluentDesignFormControl1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl2)).BeginInit();
+            this.xtraTabControl2.SuspendLayout();
+            this.xtraTabPage3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit12.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit13.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit14.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit15.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radioGroup3.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit16.Properties)).BeginInit();
+            this.xtraTabPage4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit17.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit18.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit19.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit20.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radioGroup4.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit21.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // fluentDesignFormContainer1
@@ -223,6 +288,24 @@ namespace quanlygiangvien
             this.xtraTabPage1.Name = "xtraTabPage1";
             this.xtraTabPage1.Size = new System.Drawing.Size(265, 665);
             this.xtraTabPage1.Text = "Thêm";
+            // 
+            // simpleButton2
+            // 
+            this.simpleButton2.Location = new System.Drawing.Point(165, 599);
+            this.simpleButton2.Name = "simpleButton2";
+            this.simpleButton2.Size = new System.Drawing.Size(61, 40);
+            this.simpleButton2.TabIndex = 22;
+            this.simpleButton2.Text = "Nhập lại";
+            // 
+            // simpleButton1
+            // 
+            this.simpleButton1.Appearance.BackColor2 = System.Drawing.Color.Transparent;
+            this.simpleButton1.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton1.ImageOptions.SvgImage")));
+            this.simpleButton1.Location = new System.Drawing.Point(29, 599);
+            this.simpleButton1.Name = "simpleButton1";
+            this.simpleButton1.Size = new System.Drawing.Size(112, 40);
+            this.simpleButton1.TabIndex = 21;
+            this.simpleButton1.Text = "Lưu";
             // 
             // comboBox4
             // 
@@ -468,6 +551,7 @@ namespace quanlygiangvien
             // 
             // xtraTabPage2
             // 
+            this.xtraTabPage2.Controls.Add(this.xtraTabControl2);
             this.xtraTabPage2.Controls.Add(this.comboBox6);
             this.xtraTabPage2.Controls.Add(this.label14);
             this.xtraTabPage2.Controls.Add(this.comboBox7);
@@ -989,23 +1073,580 @@ namespace quanlygiangvien
             this.barHeaderItem1.Id = 1;
             this.barHeaderItem1.Name = "barHeaderItem1";
             // 
-            // simpleButton1
+            // simpleButton3
             // 
-            this.simpleButton1.Appearance.BackColor2 = System.Drawing.Color.Transparent;
-            this.simpleButton1.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton1.ImageOptions.SvgImage")));
-            this.simpleButton1.Location = new System.Drawing.Point(29, 599);
-            this.simpleButton1.Name = "simpleButton1";
-            this.simpleButton1.Size = new System.Drawing.Size(112, 40);
-            this.simpleButton1.TabIndex = 21;
-            this.simpleButton1.Text = "Lưu";
+            this.simpleButton3.Location = new System.Drawing.Point(163, 586);
+            this.simpleButton3.Name = "simpleButton3";
+            this.simpleButton3.Size = new System.Drawing.Size(61, 40);
+            this.simpleButton3.TabIndex = 22;
+            this.simpleButton3.Text = "Nhập lại";
             // 
-            // simpleButton2
+            // simpleButton4
             // 
-            this.simpleButton2.Location = new System.Drawing.Point(165, 599);
-            this.simpleButton2.Name = "simpleButton2";
-            this.simpleButton2.Size = new System.Drawing.Size(61, 40);
-            this.simpleButton2.TabIndex = 22;
-            this.simpleButton2.Text = "Nhập lại";
+            this.simpleButton4.Appearance.BackColor2 = System.Drawing.Color.Transparent;
+            this.simpleButton4.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("simpleButton4.ImageOptions.SvgImage")));
+            this.simpleButton4.Location = new System.Drawing.Point(29, 586);
+            this.simpleButton4.Name = "simpleButton4";
+            this.simpleButton4.Size = new System.Drawing.Size(112, 40);
+            this.simpleButton4.TabIndex = 21;
+            this.simpleButton4.Text = "Lưu";
+            // 
+            // xtraTabControl2
+            // 
+            this.xtraTabControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.xtraTabControl2.Location = new System.Drawing.Point(0, 0);
+            this.xtraTabControl2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.xtraTabControl2.Name = "xtraTabControl2";
+            this.xtraTabControl2.SelectedTabPage = this.xtraTabPage3;
+            this.xtraTabControl2.Size = new System.Drawing.Size(265, 665);
+            this.xtraTabControl2.TabIndex = 43;
+            this.xtraTabControl2.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
+            this.xtraTabPage3,
+            this.xtraTabPage4});
+            // 
+            // xtraTabPage3
+            // 
+            this.xtraTabPage3.Controls.Add(this.simpleButton3);
+            this.xtraTabPage3.Controls.Add(this.simpleButton4);
+            this.xtraTabPage3.Controls.Add(this.comboBox10);
+            this.xtraTabPage3.Controls.Add(this.label25);
+            this.xtraTabPage3.Controls.Add(this.comboBox11);
+            this.xtraTabPage3.Controls.Add(this.comboBox12);
+            this.xtraTabPage3.Controls.Add(this.label26);
+            this.xtraTabPage3.Controls.Add(this.comboBox13);
+            this.xtraTabPage3.Controls.Add(this.textEdit12);
+            this.xtraTabPage3.Controls.Add(this.textEdit13);
+            this.xtraTabPage3.Controls.Add(this.textEdit14);
+            this.xtraTabPage3.Controls.Add(this.textEdit15);
+            this.xtraTabPage3.Controls.Add(this.radioGroup3);
+            this.xtraTabPage3.Controls.Add(this.dateTimePicker3);
+            this.xtraTabPage3.Controls.Add(this.label27);
+            this.xtraTabPage3.Controls.Add(this.label28);
+            this.xtraTabPage3.Controls.Add(this.label29);
+            this.xtraTabPage3.Controls.Add(this.label30);
+            this.xtraTabPage3.Controls.Add(this.label31);
+            this.xtraTabPage3.Controls.Add(this.label32);
+            this.xtraTabPage3.Controls.Add(this.label33);
+            this.xtraTabPage3.Controls.Add(this.label34);
+            this.xtraTabPage3.Controls.Add(this.label35);
+            this.xtraTabPage3.Controls.Add(this.textEdit16);
+            this.xtraTabPage3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.xtraTabPage3.Name = "xtraTabPage3";
+            this.xtraTabPage3.Size = new System.Drawing.Size(263, 632);
+            this.xtraTabPage3.Text = "Thêm";
+            // 
+            // comboBox10
+            // 
+            this.comboBox10.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.comboBox10.FormattingEnabled = true;
+            this.comboBox10.Location = new System.Drawing.Point(29, 446);
+            this.comboBox10.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.comboBox10.Name = "comboBox10";
+            this.comboBox10.Size = new System.Drawing.Size(194, 25);
+            this.comboBox10.TabIndex = 20;
+            // 
+            // label25
+            // 
+            this.label25.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label25.AutoSize = true;
+            this.label25.Location = new System.Drawing.Point(29, 425);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(47, 19);
+            this.label25.TabIndex = 19;
+            this.label25.Text = "Học vị";
+            // 
+            // comboBox11
+            // 
+            this.comboBox11.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.comboBox11.FormattingEnabled = true;
+            this.comboBox11.Location = new System.Drawing.Point(29, 556);
+            this.comboBox11.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.comboBox11.Name = "comboBox11";
+            this.comboBox11.Size = new System.Drawing.Size(194, 25);
+            this.comboBox11.TabIndex = 18;
+            // 
+            // comboBox12
+            // 
+            this.comboBox12.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.comboBox12.FormattingEnabled = true;
+            this.comboBox12.Items.AddRange(new object[] {
+            "Tiến sĩ",
+            "Giáo sư",
+            "Phó giáo sư"});
+            this.comboBox12.Location = new System.Drawing.Point(29, 394);
+            this.comboBox12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.comboBox12.Name = "comboBox12";
+            this.comboBox12.Size = new System.Drawing.Size(194, 25);
+            this.comboBox12.TabIndex = 17;
+            // 
+            // label26
+            // 
+            this.label26.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label26.AutoSize = true;
+            this.label26.Location = new System.Drawing.Point(29, 373);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(64, 19);
+            this.label26.TabIndex = 16;
+            this.label26.Text = "Học hàm";
+            // 
+            // comboBox13
+            // 
+            this.comboBox13.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.comboBox13.FormattingEnabled = true;
+            this.comboBox13.Location = new System.Drawing.Point(29, 494);
+            this.comboBox13.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.comboBox13.Name = "comboBox13";
+            this.comboBox13.Size = new System.Drawing.Size(194, 25);
+            this.comboBox13.TabIndex = 15;
+            // 
+            // textEdit12
+            // 
+            this.textEdit12.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit12.Location = new System.Drawing.Point(29, 343);
+            this.textEdit12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit12.Name = "textEdit12";
+            this.textEdit12.Size = new System.Drawing.Size(195, 24);
+            this.textEdit12.TabIndex = 14;
+            // 
+            // textEdit13
+            // 
+            this.textEdit13.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit13.Location = new System.Drawing.Point(29, 292);
+            this.textEdit13.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit13.Name = "textEdit13";
+            this.textEdit13.Size = new System.Drawing.Size(195, 24);
+            this.textEdit13.TabIndex = 13;
+            // 
+            // textEdit14
+            // 
+            this.textEdit14.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit14.Location = new System.Drawing.Point(29, 241);
+            this.textEdit14.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit14.Name = "textEdit14";
+            this.textEdit14.Size = new System.Drawing.Size(195, 24);
+            this.textEdit14.TabIndex = 12;
+            // 
+            // textEdit15
+            // 
+            this.textEdit15.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit15.Location = new System.Drawing.Point(29, 190);
+            this.textEdit15.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit15.Name = "textEdit15";
+            this.textEdit15.Size = new System.Drawing.Size(195, 24);
+            this.textEdit15.TabIndex = 11;
+            // 
+            // radioGroup3
+            // 
+            this.radioGroup3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.radioGroup3.Location = new System.Drawing.Point(29, 139);
+            this.radioGroup3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.radioGroup3.Name = "radioGroup3";
+            this.radioGroup3.Properties.Items.AddRange(new DevExpress.XtraEditors.Controls.RadioGroupItem[] {
+            new DevExpress.XtraEditors.Controls.RadioGroupItem(null, "Nam", true, null, "nam"),
+            new DevExpress.XtraEditors.Controls.RadioGroupItem(null, "Nu")});
+            this.radioGroup3.Size = new System.Drawing.Size(195, 26);
+            this.radioGroup3.TabIndex = 10;
+            // 
+            // dateTimePicker3
+            // 
+            this.dateTimePicker3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.dateTimePicker3.Location = new System.Drawing.Point(29, 85);
+            this.dateTimePicker3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.dateTimePicker3.Name = "dateTimePicker3";
+            this.dateTimePicker3.Size = new System.Drawing.Size(194, 25);
+            this.dateTimePicker3.TabIndex = 9;
+            // 
+            // label27
+            // 
+            this.label27.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label27.AutoSize = true;
+            this.label27.Location = new System.Drawing.Point(29, 535);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(112, 19);
+            this.label27.TabIndex = 8;
+            this.label27.Text = "Đơn vị học thuật";
+            // 
+            // label28
+            // 
+            this.label28.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label28.AutoSize = true;
+            this.label28.Location = new System.Drawing.Point(29, 473);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(86, 19);
+            this.label28.TabIndex = 7;
+            this.label28.Text = "Đơn vị chính";
+            // 
+            // label29
+            // 
+            this.label29.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label29.AutoSize = true;
+            this.label29.Location = new System.Drawing.Point(29, 271);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(33, 19);
+            this.label29.TabIndex = 6;
+            this.label29.Text = "SĐT";
+            // 
+            // label30
+            // 
+            this.label30.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label30.AutoSize = true;
+            this.label30.Location = new System.Drawing.Point(29, 322);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(41, 19);
+            this.label30.TabIndex = 5;
+            this.label30.Text = "Email";
+            // 
+            // label31
+            // 
+            this.label31.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label31.AutoSize = true;
+            this.label31.Location = new System.Drawing.Point(29, 169);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(70, 19);
+            this.label31.TabIndex = 4;
+            this.label31.Text = "Quê quán";
+            // 
+            // label32
+            // 
+            this.label32.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label32.AutoSize = true;
+            this.label32.Location = new System.Drawing.Point(29, 118);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(61, 19);
+            this.label32.TabIndex = 3;
+            this.label32.Text = "Giới tính";
+            // 
+            // label33
+            // 
+            this.label33.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label33.AutoSize = true;
+            this.label33.Location = new System.Drawing.Point(29, 220);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(50, 19);
+            this.label33.TabIndex = 3;
+            this.label33.Text = "Địa chỉ";
+            // 
+            // label34
+            // 
+            this.label34.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label34.AutoSize = true;
+            this.label34.Location = new System.Drawing.Point(29, 64);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(70, 19);
+            this.label34.TabIndex = 2;
+            this.label34.Text = "Ngày sinh";
+            // 
+            // label35
+            // 
+            this.label35.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label35.AutoSize = true;
+            this.label35.Location = new System.Drawing.Point(29, 13);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(69, 19);
+            this.label35.TabIndex = 1;
+            this.label35.Text = "Họ và tên";
+            // 
+            // textEdit16
+            // 
+            this.textEdit16.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit16.Location = new System.Drawing.Point(29, 34);
+            this.textEdit16.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit16.Name = "textEdit16";
+            this.textEdit16.Size = new System.Drawing.Size(195, 24);
+            this.textEdit16.TabIndex = 0;
+            // 
+            // xtraTabPage4
+            // 
+            this.xtraTabPage4.Controls.Add(this.comboBox14);
+            this.xtraTabPage4.Controls.Add(this.label36);
+            this.xtraTabPage4.Controls.Add(this.comboBox15);
+            this.xtraTabPage4.Controls.Add(this.comboBox16);
+            this.xtraTabPage4.Controls.Add(this.label37);
+            this.xtraTabPage4.Controls.Add(this.comboBox17);
+            this.xtraTabPage4.Controls.Add(this.textEdit17);
+            this.xtraTabPage4.Controls.Add(this.textEdit18);
+            this.xtraTabPage4.Controls.Add(this.textEdit19);
+            this.xtraTabPage4.Controls.Add(this.textEdit20);
+            this.xtraTabPage4.Controls.Add(this.radioGroup4);
+            this.xtraTabPage4.Controls.Add(this.dateTimePicker4);
+            this.xtraTabPage4.Controls.Add(this.label38);
+            this.xtraTabPage4.Controls.Add(this.label39);
+            this.xtraTabPage4.Controls.Add(this.label40);
+            this.xtraTabPage4.Controls.Add(this.label41);
+            this.xtraTabPage4.Controls.Add(this.label42);
+            this.xtraTabPage4.Controls.Add(this.label43);
+            this.xtraTabPage4.Controls.Add(this.label44);
+            this.xtraTabPage4.Controls.Add(this.label45);
+            this.xtraTabPage4.Controls.Add(this.label46);
+            this.xtraTabPage4.Controls.Add(this.textEdit21);
+            this.xtraTabPage4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.xtraTabPage4.Name = "xtraTabPage4";
+            this.xtraTabPage4.Size = new System.Drawing.Size(265, 665);
+            this.xtraTabPage4.Text = "Sửa";
+            // 
+            // comboBox14
+            // 
+            this.comboBox14.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.comboBox14.FormattingEnabled = true;
+            this.comboBox14.Location = new System.Drawing.Point(26, 467);
+            this.comboBox14.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.comboBox14.Name = "comboBox14";
+            this.comboBox14.Size = new System.Drawing.Size(196, 25);
+            this.comboBox14.TabIndex = 42;
+            // 
+            // label36
+            // 
+            this.label36.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label36.AutoSize = true;
+            this.label36.Location = new System.Drawing.Point(26, 446);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(47, 19);
+            this.label36.TabIndex = 41;
+            this.label36.Text = "Học vị";
+            // 
+            // comboBox15
+            // 
+            this.comboBox15.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.comboBox15.FormattingEnabled = true;
+            this.comboBox15.Location = new System.Drawing.Point(26, 577);
+            this.comboBox15.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.comboBox15.Name = "comboBox15";
+            this.comboBox15.Size = new System.Drawing.Size(196, 25);
+            this.comboBox15.TabIndex = 40;
+            // 
+            // comboBox16
+            // 
+            this.comboBox16.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.comboBox16.FormattingEnabled = true;
+            this.comboBox16.Items.AddRange(new object[] {
+            "Tiến sĩ",
+            "Giáo sư",
+            "Phó giáo sư"});
+            this.comboBox16.Location = new System.Drawing.Point(26, 415);
+            this.comboBox16.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.comboBox16.Name = "comboBox16";
+            this.comboBox16.Size = new System.Drawing.Size(196, 25);
+            this.comboBox16.TabIndex = 39;
+            // 
+            // label37
+            // 
+            this.label37.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label37.AutoSize = true;
+            this.label37.Location = new System.Drawing.Point(26, 394);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(64, 19);
+            this.label37.TabIndex = 38;
+            this.label37.Text = "Học hàm";
+            // 
+            // comboBox17
+            // 
+            this.comboBox17.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.comboBox17.FormattingEnabled = true;
+            this.comboBox17.Location = new System.Drawing.Point(26, 515);
+            this.comboBox17.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.comboBox17.Name = "comboBox17";
+            this.comboBox17.Size = new System.Drawing.Size(196, 25);
+            this.comboBox17.TabIndex = 37;
+            // 
+            // textEdit17
+            // 
+            this.textEdit17.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit17.Location = new System.Drawing.Point(26, 364);
+            this.textEdit17.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit17.Name = "textEdit17";
+            this.textEdit17.Size = new System.Drawing.Size(197, 24);
+            this.textEdit17.TabIndex = 36;
+            // 
+            // textEdit18
+            // 
+            this.textEdit18.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit18.Location = new System.Drawing.Point(26, 313);
+            this.textEdit18.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit18.Name = "textEdit18";
+            this.textEdit18.Size = new System.Drawing.Size(197, 24);
+            this.textEdit18.TabIndex = 35;
+            // 
+            // textEdit19
+            // 
+            this.textEdit19.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit19.Location = new System.Drawing.Point(26, 262);
+            this.textEdit19.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit19.Name = "textEdit19";
+            this.textEdit19.Size = new System.Drawing.Size(197, 24);
+            this.textEdit19.TabIndex = 34;
+            // 
+            // textEdit20
+            // 
+            this.textEdit20.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit20.Location = new System.Drawing.Point(26, 211);
+            this.textEdit20.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit20.Name = "textEdit20";
+            this.textEdit20.Size = new System.Drawing.Size(197, 24);
+            this.textEdit20.TabIndex = 33;
+            // 
+            // radioGroup4
+            // 
+            this.radioGroup4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.radioGroup4.Location = new System.Drawing.Point(26, 160);
+            this.radioGroup4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.radioGroup4.Name = "radioGroup4";
+            this.radioGroup4.Properties.Items.AddRange(new DevExpress.XtraEditors.Controls.RadioGroupItem[] {
+            new DevExpress.XtraEditors.Controls.RadioGroupItem(null, "Nam", true, null, "nam"),
+            new DevExpress.XtraEditors.Controls.RadioGroupItem(null, "Nu")});
+            this.radioGroup4.Size = new System.Drawing.Size(197, 26);
+            this.radioGroup4.TabIndex = 32;
+            // 
+            // dateTimePicker4
+            // 
+            this.dateTimePicker4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.dateTimePicker4.Location = new System.Drawing.Point(26, 106);
+            this.dateTimePicker4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.dateTimePicker4.Name = "dateTimePicker4";
+            this.dateTimePicker4.Size = new System.Drawing.Size(196, 25);
+            this.dateTimePicker4.TabIndex = 31;
+            // 
+            // label38
+            // 
+            this.label38.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label38.AutoSize = true;
+            this.label38.Location = new System.Drawing.Point(26, 556);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(112, 19);
+            this.label38.TabIndex = 30;
+            this.label38.Text = "Đơn vị học thuật";
+            // 
+            // label39
+            // 
+            this.label39.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label39.AutoSize = true;
+            this.label39.Location = new System.Drawing.Point(26, 494);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(86, 19);
+            this.label39.TabIndex = 29;
+            this.label39.Text = "Đơn vị chính";
+            // 
+            // label40
+            // 
+            this.label40.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label40.AutoSize = true;
+            this.label40.Location = new System.Drawing.Point(26, 292);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(33, 19);
+            this.label40.TabIndex = 28;
+            this.label40.Text = "SĐT";
+            // 
+            // label41
+            // 
+            this.label41.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label41.AutoSize = true;
+            this.label41.Location = new System.Drawing.Point(26, 343);
+            this.label41.Name = "label41";
+            this.label41.Size = new System.Drawing.Size(41, 19);
+            this.label41.TabIndex = 27;
+            this.label41.Text = "Email";
+            // 
+            // label42
+            // 
+            this.label42.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label42.AutoSize = true;
+            this.label42.Location = new System.Drawing.Point(26, 190);
+            this.label42.Name = "label42";
+            this.label42.Size = new System.Drawing.Size(70, 19);
+            this.label42.TabIndex = 26;
+            this.label42.Text = "Quê quán";
+            // 
+            // label43
+            // 
+            this.label43.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label43.AutoSize = true;
+            this.label43.Location = new System.Drawing.Point(26, 139);
+            this.label43.Name = "label43";
+            this.label43.Size = new System.Drawing.Size(61, 19);
+            this.label43.TabIndex = 25;
+            this.label43.Text = "Giới tính";
+            // 
+            // label44
+            // 
+            this.label44.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label44.AutoSize = true;
+            this.label44.Location = new System.Drawing.Point(26, 241);
+            this.label44.Name = "label44";
+            this.label44.Size = new System.Drawing.Size(50, 19);
+            this.label44.TabIndex = 24;
+            this.label44.Text = "Địa chỉ";
+            // 
+            // label45
+            // 
+            this.label45.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label45.AutoSize = true;
+            this.label45.Location = new System.Drawing.Point(26, 85);
+            this.label45.Name = "label45";
+            this.label45.Size = new System.Drawing.Size(70, 19);
+            this.label45.TabIndex = 23;
+            this.label45.Text = "Ngày sinh";
+            // 
+            // label46
+            // 
+            this.label46.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label46.AutoSize = true;
+            this.label46.Location = new System.Drawing.Point(26, 34);
+            this.label46.Name = "label46";
+            this.label46.Size = new System.Drawing.Size(69, 19);
+            this.label46.TabIndex = 22;
+            this.label46.Text = "Họ và tên";
+            // 
+            // textEdit21
+            // 
+            this.textEdit21.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textEdit21.Location = new System.Drawing.Point(26, 55);
+            this.textEdit21.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.textEdit21.Name = "textEdit21";
+            this.textEdit21.Size = new System.Drawing.Size(197, 24);
+            this.textEdit21.TabIndex = 21;
             // 
             // quanlygiaovien
             // 
@@ -1054,6 +1695,24 @@ namespace quanlygiangvien
             ((System.ComponentModel.ISupportInitialize)(this.textEdit6.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.accordionControl1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fluentDesignFormControl1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl2)).EndInit();
+            this.xtraTabControl2.ResumeLayout(false);
+            this.xtraTabPage3.ResumeLayout(false);
+            this.xtraTabPage3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit12.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit13.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit14.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit15.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radioGroup3.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit16.Properties)).EndInit();
+            this.xtraTabPage4.ResumeLayout(false);
+            this.xtraTabPage4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit17.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit18.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit19.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit20.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.radioGroup4.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.textEdit21.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1135,5 +1794,54 @@ namespace quanlygiangvien
         private DevExpress.XtraGrid.Columns.GridColumn gridColumn9;
         private DevExpress.XtraEditors.SimpleButton simpleButton2;
         private DevExpress.XtraEditors.SimpleButton simpleButton1;
+        private DevExpress.XtraTab.XtraTabControl xtraTabControl2;
+        private DevExpress.XtraTab.XtraTabPage xtraTabPage3;
+        private DevExpress.XtraEditors.SimpleButton simpleButton3;
+        private DevExpress.XtraEditors.SimpleButton simpleButton4;
+        private System.Windows.Forms.ComboBox comboBox10;
+        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.ComboBox comboBox11;
+        private System.Windows.Forms.ComboBox comboBox12;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.ComboBox comboBox13;
+        private DevExpress.XtraEditors.TextEdit textEdit12;
+        private DevExpress.XtraEditors.TextEdit textEdit13;
+        private DevExpress.XtraEditors.TextEdit textEdit14;
+        private DevExpress.XtraEditors.TextEdit textEdit15;
+        private DevExpress.XtraEditors.RadioGroup radioGroup3;
+        private System.Windows.Forms.DateTimePicker dateTimePicker3;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.Label label28;
+        private System.Windows.Forms.Label label29;
+        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.Label label31;
+        private System.Windows.Forms.Label label32;
+        private System.Windows.Forms.Label label33;
+        private System.Windows.Forms.Label label34;
+        private System.Windows.Forms.Label label35;
+        private DevExpress.XtraEditors.TextEdit textEdit16;
+        private DevExpress.XtraTab.XtraTabPage xtraTabPage4;
+        private System.Windows.Forms.ComboBox comboBox14;
+        private System.Windows.Forms.Label label36;
+        private System.Windows.Forms.ComboBox comboBox15;
+        private System.Windows.Forms.ComboBox comboBox16;
+        private System.Windows.Forms.Label label37;
+        private System.Windows.Forms.ComboBox comboBox17;
+        private DevExpress.XtraEditors.TextEdit textEdit17;
+        private DevExpress.XtraEditors.TextEdit textEdit18;
+        private DevExpress.XtraEditors.TextEdit textEdit19;
+        private DevExpress.XtraEditors.TextEdit textEdit20;
+        private DevExpress.XtraEditors.RadioGroup radioGroup4;
+        private System.Windows.Forms.DateTimePicker dateTimePicker4;
+        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.Label label39;
+        private System.Windows.Forms.Label label40;
+        private System.Windows.Forms.Label label41;
+        private System.Windows.Forms.Label label42;
+        private System.Windows.Forms.Label label43;
+        private System.Windows.Forms.Label label44;
+        private System.Windows.Forms.Label label45;
+        private System.Windows.Forms.Label label46;
+        private DevExpress.XtraEditors.TextEdit textEdit21;
     }
 }
